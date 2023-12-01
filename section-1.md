@@ -94,3 +94,7 @@ const App = () => {
 - [React.Component](https://legacy.reactjs.org/docs/react-component.html)
 - [React components](https://www.w3schools.com/react/react_components.asp)
 - [React Props](https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/)
+
+
+
+[<img src="assets/page-button.jpeg" width="150" height="100" />](./section-2.md)
